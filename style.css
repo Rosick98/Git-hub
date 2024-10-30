@@ -1,0 +1,41 @@
+.navbar{
+    background-color: #e6e6e6;
+    width: 100%;
+    height: 50px;
+    border-bottom: solid black 
+
+}
+.navbar_content{
+    display: inline-block;
+    position: relative;
+    background-color: #4d4d4d;
+    padding: 15px 30px;
+}
+.navbar_content a{
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+
+.blueContainer{
+    width: 29%;
+    height: 100vh;
+    float: left;
+    background-color: #0000FE;
+}
+.greenContainer{
+    width: 71%;
+    height: 100vh;
+    float: left;
+    background-color: #f2f2f2;
+}
+.yellowContainer{
+    width: 100%;
+    height: 20vh;
+    background-color: #f6911e;
+    position: relative;
+}
+.orangeContainer{
+    width: 100%;
+    height: 80vh;
+    background-color: #f15a25;
+}
